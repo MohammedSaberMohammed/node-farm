@@ -1,0 +1,11 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
